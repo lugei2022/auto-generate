@@ -1,8 +1,5 @@
 package com.itheima;
 
 public class CodeGenerator {
-	public static void main(String[] args) {
-		System.out.println("我做了一次修改");
-		System.out.println("这是第二次修改");
-	}
+	private static final String test = "这是一次测试";
 }
